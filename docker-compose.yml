@@ -1,0 +1,18 @@
+# Local PostgreSQL for School CRM development
+# Run: docker compose up -d
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: school-crm-db
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: schoolcrm
+      POSTGRES_PASSWORD: schoolcrm_dev
+      POSTGRES_DB: school_crm
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

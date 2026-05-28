@@ -1,0 +1,10 @@
+import * as Prisma from './internal/prismaNamespaceBrowser.js';
+export { Prisma };
+export * as $Enums from './enums.js';
+export * from './enums.js';
+export type Role = Prisma.RoleModel;
+export type User = Prisma.UserModel;
+export type School = Prisma.SchoolModel;
+export type Teacher = Prisma.TeacherModel;
+export type Student = Prisma.StudentModel;
+export type Parent = Prisma.ParentModel;
