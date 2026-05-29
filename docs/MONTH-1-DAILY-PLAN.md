@@ -192,6 +192,20 @@ PostgreSQL (:5432) — source of truth
 
 **Gate to Week 1:** Pass the [Week 0 exit checklist](#week-0-exit-checklist) below.
 
+**Progress tracker:** [LEARNING-TRACKER.md](./LEARNING-TRACKER.md)
+
+**Codecademy ([Full-Stack Engineer path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path))** — use alongside local practice:
+
+| Prep day | Codecademy units |
+|----------|------------------|
+| **1** | Overview of Web Development · Developing Websites Locally · Git and GitHub Part I |
+| **2** | JavaScript Syntax Part I · JavaScript Syntax Part II |
+| **3** | Async JavaScript and HTTP Requests |
+| **4** | Database Basics · Designing Relational Databases |
+| **5** | Catch-up only — revisit weak units |
+
+Daily rhythm: **Codecademy (learn) → `week-0-practice/` (build) → daily-log (reflect)**
+
 ---
 
 ### Prep Day 1 — Environment + Git + Terminal
@@ -215,9 +229,11 @@ PostgreSQL (:5432) — source of truth
 
 **Verify:**
 
-- [ ] Node and npm versions print without errors
-- [ ] Git repo exists with at least 1 commit
-- [ ] You can explain what `git add` vs `git commit` does
+- [x] Node and npm versions print without errors
+- [x] Git repo exists with at least 1 commit
+- [x] You can explain what `git add` vs `git commit` does
+
+**Status:** ✅ Completed 2026-05-29 (see [daily-log.md](./daily-log.md))
 
 **Learn:** What Node.js is (runtime) vs npm (package manager).
 

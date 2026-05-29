@@ -7,6 +7,7 @@ This is the **NestJS + Prisma + PostgreSQL** repository for School CRM.
 | File | Purpose |
 |------|---------|
 | [MONTH-1-DAILY-PLAN.md](./MONTH-1-DAILY-PLAN.md) | Full Week 0–4 curriculum (keep in sync with frontend copy) |
+| [LEARNING-TRACKER.md](./LEARNING-TRACKER.md) | **Progress checklist** — done / next step |
 | [daily-log.md](./daily-log.md) | **Log backend work here** — Week 0, NestJS, Prisma, API days |
 
 ## Backend-specific paths

@@ -43,13 +43,42 @@ Log **backend** and **Week 0** days here. Log frontend days in the frontend repo
 
 ## Week 0
 
-### Prep Day 1 — _date TBD_ | Environment + Git + Terminal
+### Prep Day 1 — 2026-05-29 | Environment + Git + Terminal ✅
 
-### Prep Day 2 — _date TBD_ | JavaScript refresh
+**Repo:** `ai_assistant_backend`
 
-### Prep Day 3 — _date TBD_ | Async/await + fetch
+**Codecademy completed:**
+- Overview of Web Development
+- Developing Websites Locally
+- Git and GitHub, Part I
 
-### Prep Day 4 — _date TBD_ | TypeScript + database concepts
+**Concept learned:**
+- `git add` stages changes; `git commit` saves staged snapshot to history
+- Node.js = JS runtime outside browser; npm = package manager
+- Backend and frontend are separate Git repos with separate histories
+
+**Hands-on / built today:**
+- `week-0-practice/hello.js` — ran with `node hello.js`
+- Git workflow: status → add → commit → log
+
+**Verified:**
+- [x] Node/npm versions OK
+- [x] hello.js runs
+- [x] Mentor quiz passed (git add vs commit, two-repo model)
+
+**Stuck on:** —
+
+**Tomorrow:** Week 0 Prep Day 2 — JS Syntax I & II + `day2/` scripts
+
+---
+
+### Prep Day 2 — _in progress_ | JavaScript refresh
+
+_Codecademy: JavaScript Syntax Part I · Part II · `week-0-practice/day2/`_
+
+### Prep Day 3 — _pending_ | Async/await + fetch
+
+### Prep Day 4 — _pending_ | TypeScript + database concepts
 
 ---
 
